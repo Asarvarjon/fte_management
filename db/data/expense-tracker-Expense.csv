@@ -1,0 +1,4 @@
+ID,title,amount,currency,date,category_ID,receiptUrl,status,requestedBy_ID,approvedBy_ID
+"exp-001","Flight to Berlin",350.00,"USD","2024-02-10","cat-1","","PENDING","1d23f456-78a9-4bc2-bdcd-123456789abc",null
+"exp-002","Dinner with Client",80.00,"EUR","2024-02-12","cat-2","","PENDING","2a34b567-89c0-4def-bfgh-987654321def",null
+"exp-003","New Office Chairs",500.00,"USD","2024-02-08","cat-3","","APPROVED","1d23f456-78a9-4bc2-bdcd-123456789abc","3c45d678-90e1-4fgh-chij-abcdef123456"

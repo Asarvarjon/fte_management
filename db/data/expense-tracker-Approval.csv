@@ -1,0 +1,2 @@
+ID,expense_ID,approvedBy_ID,approvedAt,decision,comments
+"app-001","exp-003","3c45d678-90e1-4fgh-chij-abcdef123456","2024-02-09T14:00:00Z","APPROVED","Office furniture purchase approved."

@@ -1,0 +1,4 @@
+ID,username,email,role,createdAt
+"1d23f456-78a9-4bc2-bdcd-123456789abc","john.doe","john.doe@example.com","EMPLOYEE","2024-02-14T10:00:00Z"
+"2a34b567-89c0-4def-bfgh-987654321def","jane.smith","jane.smith@example.com","EMPLOYEE","2024-02-14T11:00:00Z"
+"3c45d678-90e1-4fgh-chij-abcdef123456","manager.mike","mike.manager@example.com","MANAGER","2024-02-14T09:30:00Z"
